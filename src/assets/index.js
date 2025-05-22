@@ -34,6 +34,7 @@ import zealWeb from "./projects/zealWeb.png";
 import zealApp from "./projects/zealApp.png";
 import rollWeb from "./projects/rollWeb.png";
 import rollApp from "./projects/rollApp.png";
+import dms from "./projects/dms.png";
 
 export {
   logo,
@@ -70,4 +71,5 @@ export {
   zealApp,
   rollWeb,
   rollApp,
+  dms,
 };
